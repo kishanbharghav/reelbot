@@ -17,11 +17,11 @@ ReelTalk is a modern, full-stack chatbot that gives you **personalized movie and
 ---
 
 ## 🖼️ Demo
+![Screenshot 2025-07-09 175353](https://github.com/user-attachments/assets/b50d7ef9-2282-4a7b-ae68-380d16845557)
 
-> Live Site: [https://your-reeltalk.vercel.app](https://your-reeltalk.vercel.app)  
-> Backend API: [https://your-api.onrender.com/recommend](https://your-api.onrender.com/recommend)
+![Screenshot 2025-07-09 170348](https://github.com/user-attachments/assets/2b38dc50-80a2-49b6-9f09-52e313707737)
 
-![Demo Screenshot](./demo/screenshot.png)
+![Screenshot 2025-07-09 170451](https://github.com/user-attachments/assets/1b81def6-81bf-4e5e-8726-29915688ab97)
 
 ---
 
